@@ -105,4 +105,4 @@ venv.bak/
 
 # IDE settings
 .idea/
-temp.py
+temp*
